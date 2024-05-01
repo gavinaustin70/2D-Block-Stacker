@@ -1,0 +1,15 @@
+Rubric:
+[X] Creation of the main interface with correct animation
+[X] Nice visual effects for each block placed
+[X] Point system for each block placed (1 point for each block placed)
+[X] For every 5 blocks placed, you will receive a power-up
+Power-ups:
+[X] New block with a bigger base than the current block
+[X] Double points for each block placed
+[X] Auto-place the next block in the optimal position
+[X] Extra life
+Penalties:
+[X] If there isn’t a “perfectly” placed block after 7 blocks placed, then the next block will shrink by ½ times the current block
+[X] If there isn’t a perfectly placed block after 10 blocks placed, a life will be lost
+Winning:
+[X] You must reach a score of 35 to win
