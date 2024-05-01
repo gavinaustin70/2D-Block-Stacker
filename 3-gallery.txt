@@ -1,0 +1,4 @@
+Author: Gavin Austin
+Explanation: Everything that is to be explained about this project
+is explained in the README file and should be visually clear
+when actually playing.
